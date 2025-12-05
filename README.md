@@ -196,6 +196,6 @@ In this step, different FIR filters (Windowed Sinc, LS, WLS) are **designed usin
 
 ## 📄 License
 
-Important Notice: This repository is publicly available for viewing only. Forking, cloning, or redistributing this project is **NOT** permitted without explicit permission.
+⚠️ **Important Notice:** This repository is publicly available for viewing only. Forking, cloning, or redistributing this project is **NOT** permitted without explicit permission.
 
 Copyright (c) 2025 Chameleon Tech
